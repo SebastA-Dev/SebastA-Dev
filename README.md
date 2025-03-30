@@ -57,7 +57,7 @@ Software Developer Jr. | Future Systems Engineer
 ### ETIB S.A.S - Bogotá DC, Colombia
 **Software Development Intern** | February 4, 2025 - August 3, 2025
 - I optimized one module to high performance on a web page
-- I refactorized one module for real-time updates
+- Currently developing high performance real-time web application
 - **Technologies used:** C# and Blazor
 
 ## Featured Projects 🚀
