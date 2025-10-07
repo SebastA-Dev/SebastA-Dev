@@ -8,15 +8,15 @@ Software Developer Jr. | Future Systems Engineer
 
 ## Education 🎓
 
+### SENA
+- **Program:** ADS (Analysis and Software Development) Associate Degree
+- **Status:** Graduated
+- **Graduation:** 2025
+
 ### Universidad Distrital Francisco Jose de Caldas
 - **Program:** Systems Engineering
 - **Status:** In Progress
 - **Expected Graduation:** 2028-29
-
-### SENA
-- **Program:** ADSI (Analysis and Software Development) Technology Degree
-- **Status:** In Progress
-- **Graduation:** 2025-26
 
 ## Technical Skills 💻
 
